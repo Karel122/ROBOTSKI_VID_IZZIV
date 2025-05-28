@@ -1,0 +1,259 @@
+[
+    {
+        "end_frame": 21,
+        "end_time": "00:00:01.050",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 21,
+        "start_time": "00:00:01.050",
+        "end_frame": 35,
+        "end_time": "00:00:01.750",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 35,
+        "start_time": "00:00:01.750",
+        "end_frame": 44,
+        "end_time": "00:00:02.200",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 44,
+        "start_time": "00:00:02.200",
+        "end_frame": 53,
+        "end_time": "00:00:02.650",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 53,
+        "start_time": "00:00:02.650",
+        "end_frame": 62,
+        "end_time": "00:00:03.100",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 62,
+        "start_time": "00:00:03.100",
+        "end_frame": 84,
+        "end_time": "00:00:04.200",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 84,
+        "start_time": "00:00:04.200",
+        "end_frame": 93,
+        "end_time": "00:00:04.650",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 93,
+        "start_time": "00:00:04.650",
+        "end_frame": 105,
+        "end_time": "00:00:05.250",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 105,
+        "start_time": "00:00:05.250",
+        "end_frame": 115,
+        "end_time": "00:00:05.750",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 115,
+        "start_time": "00:00:05.750",
+        "end_frame": 124,
+        "end_time": "00:00:06.200",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 124,
+        "start_time": "00:00:06.200",
+        "end_frame": 130,
+        "end_time": "00:00:06.500",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 130,
+        "start_time": "00:00:06.500",
+        "end_frame": 140,
+        "end_time": "00:00:07.000",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 140,
+        "start_time": "00:00:07.000",
+        "end_frame": 148,
+        "end_time": "00:00:07.400",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 148,
+        "start_time": "00:00:07.400",
+        "end_frame": 156,
+        "end_time": "00:00:07.800",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 156,
+        "start_time": "00:00:07.800",
+        "end_frame": 165,
+        "end_time": "00:00:08.250",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 165,
+        "start_time": "00:00:08.250",
+        "end_frame": 173,
+        "end_time": "00:00:08.650",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 173,
+        "start_time": "00:00:08.650",
+        "end_frame": 179,
+        "end_time": "00:00:08.950",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 179,
+        "start_time": "00:00:08.950",
+        "end_frame": 197,
+        "end_time": "00:00:09.850",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 197,
+        "start_time": "00:00:09.850",
+        "end_frame": 202,
+        "end_time": "00:00:10.100",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 202,
+        "start_time": "00:00:10.100",
+        "end_frame": 210,
+        "end_time": "00:00:10.500",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 210,
+        "start_time": "00:00:10.500",
+        "end_frame": 216,
+        "end_time": "00:00:10.800",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 216,
+        "start_time": "00:00:10.800",
+        "end_frame": 246,
+        "end_time": "00:00:12.300",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 246,
+        "start_time": "00:00:12.300",
+        "end_frame": 254,
+        "end_time": "00:00:12.700",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 254,
+        "start_time": "00:00:12.700",
+        "end_frame": 273,
+        "end_time": "00:00:13.650",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 273,
+        "start_time": "00:00:13.650",
+        "end_frame": 279,
+        "end_time": "00:00:13.950",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 279,
+        "start_time": "00:00:13.950",
+        "end_frame": 288,
+        "end_time": "00:00:14.400",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 288,
+        "start_time": "00:00:14.400",
+        "end_frame": 299,
+        "end_time": "00:00:14.950",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 299,
+        "start_time": "00:00:14.950",
+        "end_frame": 303,
+        "end_time": "00:00:15.150",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 303,
+        "start_time": "00:00:15.150",
+        "end_frame": 305,
+        "end_time": "00:00:15.250",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 305,
+        "start_time": "00:00:15.250",
+        "end_frame": 332,
+        "end_time": "00:00:16.600",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 332,
+        "start_time": "00:00:16.600",
+        "end_frame": 415,
+        "end_time": "00:00:20.750",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 415,
+        "start_time": "00:00:20.750",
+        "end_frame": 425,
+        "end_time": "00:00:21.250",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 425,
+        "start_time": "00:00:21.250",
+        "end_frame": 429,
+        "end_time": "00:00:21.450",
+        "label": "empty_hand"
+    },
+    {
+        "start_frame": 429,
+        "start_time": "00:00:21.450",
+        "end_frame": 449,
+        "end_time": "00:00:22.450",
+        "label": "grabbing_the_pin"
+    },
+    {
+        "start_frame": 449,
+        "start_time": "00:00:22.450",
+        "end_frame": 462,
+        "end_time": "00:00:23.100",
+        "label": "carring_the_pin"
+    },
+    {
+        "start_frame": 462,
+        "start_time": "00:00:23.100",
+        "end_frame": 478,
+        "end_time": "00:00:23.900",
+        "label": "putting_in_a_hole"
+    },
+    {
+        "start_frame": 478,
+        "start_time": "00:00:23.900",
+        "end_frame": 693,
+        "end_time": "00:00:26.700",
+        "label": "empty_hand"
+    }
+]
