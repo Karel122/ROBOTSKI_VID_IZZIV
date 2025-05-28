@@ -1,0 +1,252 @@
+[
+    {
+        "end_frame": 33,
+        "end_time": "00:00:01.650",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 33,
+        "start_time": "00:00:01.650",
+        "end_frame": 59,
+        "end_time": "00:00:02.950",
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 59,
+        "start_time": "00:00:02.950",
+        "end_frame": 76,
+        "end_time": "00:00:03.800",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 76,
+        "start_time": "00:00:03.800",
+        "end_frame": 92,
+        "end_time": "00:00:04.600",
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 92,
+        "start_time": "00:00:04.600",
+        "end_frame": 98,
+        "end_time": "00:00:04.900",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 98,
+        "start_time": "00:00:04.900",
+        "end_frame": 122,
+        "end_time": "00:00:06.100",
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 122,
+        "start_time": "00:00:06.100",
+        "end_frame": 130,
+        "end_time": "00:00:06.500",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 130,
+        "start_time": "00:00:06.500",
+        "end_frame": 141,
+        "end_time": "00:00:07.050",
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 141,
+        "start_time": "00:00:07.050",
+        "end_frame": 146,
+        "end_time": "00:00:07.300",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 146,
+        "start_time": "00:00:07.300",
+        "end_frame": 164,
+        "end_time": "00:00:08.200",
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 164,
+        "start_time": "00:00:08.200",
+        "end_frame": 182,
+        "end_time": "00:00:09.100",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 182,
+        "start_time": "00:00:09.100",
+        "end_frame": 190,
+        "end_time": "00:00:09.500",
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 190,
+        "start_time": "00:00:09.500",
+        "end_frame": 196,
+        "end_time": "00:00:09.800",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 196,
+        "start_time": "00:00:09.800",
+        "end_frame": 217,
+        "end_time": "00:00:10.850",
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 217,
+        "start_time": "00:00:10.850",
+        "end_frame": 230,
+        "end_time": "00:00:11.500",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 230,
+        "start_time": "00:00:11.500",
+        "end_frame": 242,
+        "end_time": "00:00:12.100",
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 242,
+        "start_time": "00:00:12.100",
+        "end_frame": 249,
+        "end_time": "00:00:12.450",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 249,
+        "start_time": "00:00:12.450",
+        "end_frame": 264,
+        "end_time": "00:00:13.200",
+        "label": "prijemaje_pina"
+    },
+    {
+        "start_frame": 264,
+        "start_time": "00:00:13.200",
+        "end_frame": 273,
+        "end_time": "00:00:13.650",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 273,
+        "start_time": "00:00:13.650",
+        "end_frame": 281,
+        "end_time": "00:00:14.050",
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 281,
+        "start_time": "00:00:14.050",
+        "end_frame": 286,
+        "end_time": "00:00:14.300",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 286,
+        "start_time": "00:00:14.300",
+        "end_frame": 303,
+        "end_time": "00:00:15.150",
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 303,
+        "start_time": "00:00:15.150",
+        "end_frame": 311,
+        "end_time": "00:00:15.550",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 311,
+        "start_time": "00:00:15.550",
+        "end_frame": 334,
+        "end_time": "00:00:16.700",
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 334,
+        "start_time": "00:00:16.700",
+        "end_frame": 340,
+        "end_time": "00:00:17.000",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 340,
+        "start_time": "00:00:17.000",
+        "end_frame": 353,
+        "end_time": "00:00:17.650",
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 353,
+        "start_time": "00:00:17.650",
+        "end_frame": 361,
+        "end_time": "00:00:18.050",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 361,
+        "start_time": "00:00:18.050",
+        "end_frame": 375,
+        "end_time": "00:00:18.750",
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 375,
+        "start_time": "00:00:18.750",
+        "end_frame": 382,
+        "end_time": "00:00:19.100",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 382,
+        "start_time": "00:00:19.100",
+        "end_frame": 408,
+        "end_time": "00:00:20.400",
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 408,
+        "start_time": "00:00:20.400",
+        "end_frame": 419,
+        "end_time": "00:00:20.950",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 419,
+        "start_time": "00:00:20.950",
+        "end_frame": 426,
+        "end_time": "00:00:21.300",
+        "label": "odlagnje_pin"
+    },
+    {
+        "start_frame": 426,
+        "start_time": "00:00:21.300",
+        "end_frame": 431,
+        "end_time": "00:00:21.550",
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 431,
+        "start_time": "00:00:21.550",
+        "end_frame": 438,
+        "end_time": "00:00:21.900",
+        "label": "prijemanj_pina"
+    },
+    {
+        "start_frame": 438,
+        "start_time": "00:00:21.900",
+        "end_frame": 443,
+        "end_time": "00:00:22.150",
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 443,
+        "start_time": "00:00:22.150",
+        "end_frame": 453,
+        "end_time": "00:00:22.650",
+        "label": "odlaganje_pina"
+    }
+]
